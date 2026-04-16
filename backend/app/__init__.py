@@ -1,0 +1,3 @@
+"""Invoice Automation Backend Application."""
+
+__version__ = "1.0.0"
